@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="message" label="Message" language="en" table="x_520922_ccwhelloa_message">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>message</element>
+            <help/>
+            <hint/>
+            <label>Message</label>
+            <language>en</language>
+            <name>x_520922_ccwhelloa_message</name>
+            <plural>Messages</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-08-03 15:02:41</sys_created_on>
+            <sys_id>933e795b2f121010dc005e972799b640</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Message</sys_name>
+            <sys_package display_value="CCWHelloApp" source="x_520922_ccwhelloa">c807b9d32f121010dc005e972799b658</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="CCWHelloApp">c807b9d32f121010dc005e972799b658</sys_scope>
+            <sys_update_name>sys_documentation_x_520922_ccwhelloa_message_message_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-08-03 15:02:41</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

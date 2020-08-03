@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-08-03 15:02:45</sys_created_on>
+        <sys_id>984e795b2f121010dc005e972799b694</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_520922_ccwhelloa_message.x_520922_ccwhelloa.hello_user</sys_name>
+        <sys_package display_value="CCWHelloApp" source="x_520922_ccwhelloa">c807b9d32f121010dc005e972799b658</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CCWHelloApp">c807b9d32f121010dc005e972799b658</sys_scope>
+        <sys_security_acl display_value="x_520922_ccwhelloa_message">104ef9932f121010dc005e972799b62f</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_984e795b2f121010dc005e972799b694</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-08-03 15:02:45</sys_updated_on>
+        <sys_user_role display_value="x_520922_ccwhelloa.hello_user" name="x_520922_ccwhelloa.hello_user">1f577d932f121010dc005e972799b62b</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>
